@@ -42,7 +42,7 @@
     "axe-core": "^3.4.0",
     "chai": "^4.2.0",
     "es-dev-server": "^1.22.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.14",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^3.1.0",
     "karma-coverage-istanbul-reporter": "^2.1.0",
